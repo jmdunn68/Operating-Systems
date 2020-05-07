@@ -1,0 +1,1 @@
+Memory management is one of the key functions of an operating system.  The main memory of a computer can be accessed from the CPU directly.  It keeps track of the primary memory and allocates memory when a process requests it.  It also de-allocates the memory when the process no longer needs it.
